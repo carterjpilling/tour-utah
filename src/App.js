@@ -1,5 +1,6 @@
 import NavBar from './Components/NavBar'
 import Carousel from './Components/Carousel/Carousel'
+import OurParks from './Components/ParksFolder/OurParks'
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <NavBar />
       <Carousel />
+      <OurParks />
 
     </div>
   );
