@@ -53,6 +53,7 @@ export default function ParkCards() {
 
   ]
 
+  //Need to make these able to change dynamically and shuffle inbetween. 
   return (
     <div className="our-parks">
       <Card
